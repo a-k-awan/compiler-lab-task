@@ -1,0 +1,4 @@
+for(expr;expr;) 
+    if(expr)
+        if(expr)
+            other
