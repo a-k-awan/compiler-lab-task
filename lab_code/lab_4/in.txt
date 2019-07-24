@@ -1,0 +1,13 @@
+{ 
+    int x;
+    bool abc; 
+    x;
+    abc;
+    {
+        int abc;
+        abc;
+
+        x;
+    }
+
+}
